@@ -1,0 +1,8 @@
+# There is three steps in the terraform Lifecycle 
+
+
+terraform init: means when we inilitize the terrform providers and versions
+
+terraform plan: means, its show us what will going to create as before creatin the actual resource
+
+terraform apply: to create the resource
